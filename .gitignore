@@ -1,0 +1,8 @@
+x64/
+DetectorsModel/
+Debug/
+# ModelLoading.*
+*.out
+*.png
+*.csv
+.vs/
